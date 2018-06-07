@@ -19,3 +19,4 @@ This is convenient for python3 scripts to read this info directly from the name 
 
 # General Notes
 Change the shabang according to your terminal
+Change the directories if needed
